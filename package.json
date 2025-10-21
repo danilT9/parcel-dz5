@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel ./src/*",
-    "build": "parcel build ./src/* --no-cache --public-url /",
+    "build": "parcel build ./src/* --no-cache --public-url ./",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "re": "npm run predeploy && git add . && git commit -m main && git push origin main && npm run deploy"

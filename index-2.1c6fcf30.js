@@ -207,7 +207,7 @@
       });
     }
   }
-})({"9QSDR":[function(require,module,exports,__globalThis) {
+})({"3oBAh":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -810,6 +810,6 @@ const salesChart = new Chart(salesChartCanvas, {
     }
 });
 
-},{}]},["9QSDR","cqGBq"], "cqGBq", "parcelRequiree505", {})
+},{}]},["3oBAh","cqGBq"], "cqGBq", "parcelRequiree505", {})
 
 //# sourceMappingURL=index-2.1c6fcf30.js.map

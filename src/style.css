@@ -1,0 +1,23 @@
+#area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+#new-game {
+    border: none;
+    border-radius: 20px;
+    background-color: #373737;
+    color: white;
+    width: 150px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+} #new-game:active {
+    background-color: #474747;
+}
